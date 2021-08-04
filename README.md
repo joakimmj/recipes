@@ -7,3 +7,7 @@
 ## Kake
 
 * [Mormors Moldhaugkake](./oppskrifter/cake--moldhaugkake.md)
+
+## Saus/Dipp
+
+* [Tzatziki](./oppskrifter/sauce--tzatziki.md)
