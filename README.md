@@ -7,6 +7,7 @@
 
 ## Gryte
 
+* [Anders’ Fiskegryte](./oppskrifter/stew--fish-stew.md)
 * [Mammas Kalkungryte](./oppskrifter/stew--turkey-stew.md)
 
 ## Kake
