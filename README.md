@@ -9,6 +9,7 @@
 
 * [Anders’ Fiskegryte](./oppskrifter/stew--fish-stew.md)
 * [Mammas Kalkungryte](./oppskrifter/stew--turkey-stew.md)
+* [Onkel Geirs Bacalao](./oppskrifter/stew--bacalao.md)
 
 ## Kake
 
