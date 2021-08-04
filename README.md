@@ -3,6 +3,7 @@
 ## Brød
 
 * [Erlings Brødoppskrift](./oppskrifter/bread--bread.md)
+* [Farmors Pizzabunn](./oppskrifter/bread--pizza-dough.md)
 * [Rundstykker (Grove)](./oppskrifter/bread--coarse-rolls.md)
 
 ## Gryte
