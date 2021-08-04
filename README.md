@@ -11,6 +11,7 @@
 
 ## Kake
 
+* [Krumkaker](./oppskrifter/cake--krumkake.md)
 * [Mormors Moldhaugkake](./oppskrifter/cake--moldhaugkake.md)
 
 ## Saus/Dipp
