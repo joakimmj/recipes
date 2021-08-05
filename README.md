@@ -9,6 +9,7 @@
 
 ## Dessert
 
+* [Kariannes Sjokoladekjeks](./oppskrifter/dessert--chocolate-chip-cookies.md)
 * [Mormors Julesnegle](./oppskrifter/dessert--julesnegle.md)
 
 ## Gryte
