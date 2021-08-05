@@ -26,6 +26,7 @@
 
 ## Saus/Dipp
 
+* [Mias Guacamole](./oppskrifter/sauce--guacamole.md)
 * [Tzatziki](./oppskrifter/sauce--tzatziki.md)
 
 ## Annet
