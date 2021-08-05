@@ -6,6 +6,10 @@
 * [Farmors Pizzabunn](./oppskrifter/bread--pizza-dough.md)
 * [Rundstykker (Grove)](./oppskrifter/bread--coarse-rolls.md)
 
+## Dessert
+
+* [Mormors Julesnegle](./oppskrifter/dessert--julesnegle.md)
+
 ## Gryte
 
 * [Anders’ Fiskegryte](./oppskrifter/stew--fish-stew.md)
