@@ -4,6 +4,7 @@
 
 * [Erlings Brødoppskrift](./oppskrifter/bread--bread.md)
 * [Farmors Pizzabunn](./oppskrifter/bread--pizza-dough.md)
+* [Knekkebrød](./oppskrifter/bread--crispbread.md)
 * [Rundstykker (Grove)](./oppskrifter/bread--coarse-rolls.md)
 
 ## Dessert
