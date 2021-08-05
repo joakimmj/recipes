@@ -10,6 +10,7 @@
 
 * [Anders’ Fiskegryte](./oppskrifter/stew--fish-stew.md)
 * [Mammas Kalkungryte](./oppskrifter/stew--turkey-stew.md)
+* [Mormors Biff Stroganoff](./oppskrifter/stew--biff-stroganoff.md)
 * [Onkel Geirs Bacalao](./oppskrifter/stew--bacalao.md)
 
 ## Kake
