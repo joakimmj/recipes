@@ -29,6 +29,10 @@
 * [Mias Guacamole](./oppskrifter/sauce--guacamole.md)
 * [Tzatziki](./oppskrifter/sauce--tzatziki.md)
 
+## Syltetøy
+
+* [Appelsinmarmelade](./oppskrifter/jam--orange-marmalade.md)
+
 ## Annet
 
 * [Tante Guros Kjøttkaker](./oppskrifter/other--meatballs.md)
