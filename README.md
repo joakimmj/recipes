@@ -36,6 +36,7 @@
 ## Syltetøy
 
 * [Appelsinmarmelade](./oppskrifter/jam--orange-marmalade.md)
+* [Lindemanns Syltetøy](./oppskrifter/jam--lindemanns.md)
 
 ## Annet
 
