@@ -24,6 +24,10 @@
 * [Krumkaker](./oppskrifter/cake--krumkake.md)
 * [Mormors Moldhaugkake](./oppskrifter/cake--moldhaugkake.md)
 
+## Salat
+
+* [Agurksalat](./oppskrifter/salad--cucumber.md)
+
 ## Saus/Dipp
 
 * [Mias Guacamole](./oppskrifter/sauce--guacamole.md)
