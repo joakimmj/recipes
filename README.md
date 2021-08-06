@@ -12,6 +12,7 @@
 
 * [Kariannes Sjokoladekjeks](./oppskrifter/dessert--chocolate-chip-cookies.md)
 * [Mormors Julesnegle](./oppskrifter/dessert--julesnegle.md)
+* [Mørlefse (tykklefse)](./oppskrifter/dessert--morlefse.md)
 
 ## Gryte
 
