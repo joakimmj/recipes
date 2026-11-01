@@ -1,3 +1,9 @@
+---
+created: 2021-08-05
+tags: [stew, dinner, meat, gluten_free]
+from: [mormor]
+---
+
 # Mormors Biff Stroganoff
 > Til åtte personer
 

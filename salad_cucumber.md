@@ -1,3 +1,8 @@
+---
+created: 2021-08-06
+tags: [salad, vegetarian, gluten_free, lactose_free]
+---
+
 # Agurksalat
 
 ## Ingredienser

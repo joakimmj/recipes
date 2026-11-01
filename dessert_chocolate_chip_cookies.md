@@ -1,3 +1,9 @@
+---
+created: 2021-08-05
+tags: [dessert, cookie, vegetarian]
+from: [karianne]
+---
+
 # Kariannes Sjokoladekjeks
 
 ## Ingredienser

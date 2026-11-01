@@ -1,0 +1,24 @@
+{
+  "engrams": {
+    "filename": {
+      "prefix": "concept"
+    },
+    "content_template": "%cursor%"
+  },
+  "frontmatter": {
+    "from": {
+      "kind": "concept",
+      "concept_type": "person",
+      "list": true
+    }
+  },
+  "concepts": {
+    "person": {
+      "fields": []
+    }
+  },
+  "synapses": {
+    "up": null,
+    "down": null
+  }
+}

@@ -1,3 +1,9 @@
+---
+created: 2021-08-04
+tags: [stew, dinner, fish, gluten_free, lactose_free]
+from: [onkel_geir]
+---
+
 # Onkel Geirs Bacalao
 
 ## Forberedelse

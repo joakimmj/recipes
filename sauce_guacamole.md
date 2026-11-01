@@ -1,3 +1,9 @@
+---
+created: 2021-08-05
+tags: [sauce, vegetarian, gluten_free, lactose_free]
+from: [mia]
+---
+
 # Mias Guacamole
 
 ## Ingredienser

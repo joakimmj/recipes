@@ -1,3 +1,9 @@
+---
+created: 2021-09-18
+tags: [dessert, yeast, vegetarian]
+from: [lisbeth]
+---
+
 # Lisbeths Skillingsbolle
 > Ca. 12 stk.
 

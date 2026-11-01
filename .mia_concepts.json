@@ -1,0 +1,203 @@
+{
+  "anders": {
+    "display_name": "Anders",
+    "type": "person"
+  },
+  "bread": {
+    "display_name": "bread",
+    "meta": {
+      "description": "Brød"
+    },
+    "type": "tag"
+  },
+  "cake": {
+    "display_name": "cake",
+    "meta": {
+      "description": "Kake"
+    },
+    "type": "tag"
+  },
+  "christmas": {
+    "display_name": "christmas",
+    "meta": {
+      "description": "Jul"
+    },
+    "type": "tag"
+  },
+  "cookie": {
+    "display_name": "cookie",
+    "meta": {
+      "description": "Småkaker"
+    },
+    "type": "tag"
+  },
+  "dessert": {
+    "display_name": "dessert",
+    "meta": {
+      "description": "Dessert"
+    },
+    "type": "tag"
+  },
+  "dinner": {
+    "display_name": "dinner",
+    "meta": {
+      "description": "Middag"
+    },
+    "type": "tag"
+  },
+  "erling": {
+    "display_name": "Erling",
+    "type": "person"
+  },
+  "farmor": {
+    "display_name": "Farmor",
+    "type": "person"
+  },
+  "fish": {
+    "display_name": "fish",
+    "meta": {
+      "description": "Fisk"
+    },
+    "type": "tag"
+  },
+  "freezable": {
+    "display_name": "freezable",
+    "meta": {
+      "description": "Kan fryses"
+    },
+    "type": "tag"
+  },
+  "gluten_free": {
+    "display_name": "gluten_free",
+    "meta": {
+      "description": "Glutenfri"
+    },
+    "type": "tag"
+  },
+  "incomplete": {
+    "display_name": "incomplete",
+    "meta": {
+      "description": "Mangler fremgangsmåte"
+    },
+    "type": "tag"
+  },
+  "jam": {
+    "display_name": "jam",
+    "meta": {
+      "description": "Syltetøy"
+    },
+    "type": "tag"
+  },
+  "karianne": {
+    "display_name": "Karianne",
+    "type": "person"
+  },
+  "lactose_free": {
+    "display_name": "lactose_free",
+    "meta": {
+      "description": "Laktosefri"
+    },
+    "type": "tag"
+  },
+  "lefse": {
+    "display_name": "lefse",
+    "meta": {
+      "description": "Lefse"
+    },
+    "type": "tag"
+  },
+  "lisbeth": {
+    "display_name": "Lisbeth",
+    "type": "person"
+  },
+  "mamma": {
+    "display_name": "Mamma",
+    "type": "person"
+  },
+  "meat": {
+    "display_name": "meat",
+    "meta": {
+      "description": "Kjøtt"
+    },
+    "type": "tag"
+  },
+  "medicinal": {
+    "display_name": "medicinal",
+    "meta": {
+      "description": "Medisinsk, ikke mat"
+    },
+    "type": "tag"
+  },
+  "mia": {
+    "display_name": "Mia",
+    "type": "person"
+  },
+  "mormor": {
+    "display_name": "Mormor",
+    "type": "person"
+  },
+  "onkel_geir": {
+    "display_name": "Onkel Geir",
+    "type": "person"
+  },
+  "other": {
+    "display_name": "other",
+    "meta": {
+      "description": "Annet"
+    },
+    "type": "tag"
+  },
+  "pizza": {
+    "display_name": "pizza",
+    "meta": {
+      "description": "Pizza"
+    },
+    "type": "tag"
+  },
+  "poultry": {
+    "display_name": "poultry",
+    "meta": {
+      "description": "Fjærkre"
+    },
+    "type": "tag"
+  },
+  "salad": {
+    "display_name": "salad",
+    "meta": {
+      "description": "Salat"
+    },
+    "type": "tag"
+  },
+  "sauce": {
+    "display_name": "sauce",
+    "meta": {
+      "description": "Saus/Dipp"
+    },
+    "type": "tag"
+  },
+  "stew": {
+    "display_name": "stew",
+    "meta": {
+      "description": "Gryte"
+    },
+    "type": "tag"
+  },
+  "tante_guro": {
+    "display_name": "Tante Guro",
+    "type": "person"
+  },
+  "vegetarian": {
+    "display_name": "vegetarian",
+    "meta": {
+      "description": "Vegetar"
+    },
+    "type": "tag"
+  },
+  "yeast": {
+    "display_name": "yeast",
+    "meta": {
+      "description": "Gjærbakst"
+    },
+    "type": "tag"
+  }
+}

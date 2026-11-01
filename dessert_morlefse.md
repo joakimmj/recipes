@@ -1,3 +1,8 @@
+---
+created: 2021-08-06
+tags: [dessert, christmas, lefse, vegetarian]
+---
+
 # Mørlefse (tykklefse)
 
 ## Ingredienser

@@ -1,3 +1,8 @@
+---
+created: 2021-09-18
+tags: [bread, freezable, pizza, yeast, vegetarian, lactose_free]
+---
+
 # Italiensk Pizzabunn
 > En stor/to små pizzaer
 

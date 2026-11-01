@@ -1,3 +1,9 @@
+---
+created: 2021-09-18
+tags: [dessert, vegetarian, gluten_free, lactose_free]
+from: [mia]
+---
+
 # Mias Raw Kuler
 
 ## Ingredienser

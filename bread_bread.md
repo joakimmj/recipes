@@ -1,3 +1,9 @@
+---
+created: 2021-08-04
+tags: [bread, freezable, yeast, vegetarian, lactose_free]
+from: [erling]
+---
+
 # Erlings Brødoppskrift
 
 ## Ingredienser

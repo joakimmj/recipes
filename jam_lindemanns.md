@@ -1,3 +1,8 @@
+---
+created: 2021-08-06
+tags: [jam, medicinal, vegetarian, gluten_free, lactose_free]
+---
+
 # Lindemanns Syltetøy
 
 > OBS! Det kalles syltetøy, men skal ikke smøres på skiva. Dette er for en lakserende effekt.

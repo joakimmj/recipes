@@ -1,3 +1,8 @@
+---
+created: 2021-08-06
+tags: [dessert, christmas, freezable, lefse, vegetarian]
+---
+
 # Kvitlefse (tynnlefse)
 > 20 lefser
 

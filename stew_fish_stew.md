@@ -1,3 +1,9 @@
+---
+created: 2021-08-04
+tags: [stew, dinner, fish, gluten_free, lactose_free]
+from: [anders]
+---
+
 # Anders’ Fiskegryte
 > Til fire personer
 

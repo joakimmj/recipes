@@ -1,3 +1,9 @@
+---
+created: 2021-08-04
+tags: [other, dinner, incomplete, meat, lactose_free]
+from: [tante_guro]
+---
+
 # Tante Guros Kjøttkaker
 
 * 500 g. kjøttdeig

@@ -1,3 +1,9 @@
+---
+created: 2021-08-05
+tags: [dessert, christmas, cookie, vegetarian, lactose_free]
+from: [mormor]
+---
+
 # Mormors Julesnegle
 
 ## Ingredienser

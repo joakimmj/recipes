@@ -1,3 +1,9 @@
+---
+created: 2021-08-04
+tags: [cake, dessert, vegetarian]
+from: [mormor]
+---
+
 # Mormors Moldhaugkake
 
 ## Ingredienser

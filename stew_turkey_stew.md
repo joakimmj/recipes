@@ -1,3 +1,9 @@
+---
+created: 2021-08-04
+tags: [stew, dinner, poultry, gluten_free]
+from: [mamma]
+---
+
 # Mammas Kalkungryte
 
 ## Ingredienser
